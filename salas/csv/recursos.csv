@@ -1,0 +1,13 @@
+id,nombre,tipo,ubicacion,capacidad,atributos,activo
+1,Sala Silenciosa 1,Individual,Biblioteca · Piso 2,1,Sin conversación · escritorio individual,1
+2,Sala Silenciosa 2,Individual,Biblioteca · Piso 2,1,Sin conversación · escritorio individual,1
+3,Sala Silenciosa 3,Individual,Biblioteca · Piso 2,1,Sin conversación · escritorio individual,1
+4,Sala Grupal A,Grupal,Biblioteca · Piso 3,6,Tablero y marcadores,1
+5,Sala Grupal B,Grupal,Biblioteca · Piso 3,6,"Tablero y pantalla 43""",1
+6,Sala Grupal C,Grupal,Biblioteca · Piso 3,8,Mesa amplia · tablero,1
+7,Sala Grupal D,Grupal,Bloque 4 · Piso 1,4,Sin tablero,1
+8,Cabina de Videoconferencia 1,Videoconferencia,Bloque 4 · Piso 1,2,Cámara y micrófono,1
+9,Cabina de Videoconferencia 2,Videoconferencia,Bloque 4 · Piso 1,2,Cámara y micrófono,1
+10,Sala de Proyectos 1,Proyectos,Bloque 5 · Piso 2,10,Proyector · tablero doble,1
+11,Sala de Proyectos 2,Proyectos,Bloque 5 · Piso 2,10,Proyector · mesa modular,1
+12,Sala Multimedia,Multimedia,Biblioteca · Piso 1,4,4 equipos de cómputo,1
